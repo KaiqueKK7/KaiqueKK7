@@ -1,16 +1,12 @@
-## Hi there 👋
+## 🚀 Ask me about:
+- Web Development
+- Git & GitHub
+- Process Automation
+- Dev projects
+- Best Programming Practices
 
-<!--
-**KaiqueKK7/KaiqueKK7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 I'm currently learning:
+- [python]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun fact:
+- I always try to improve my code, but there's always something new to learn!
